@@ -8,7 +8,7 @@ In this project, using R and Weka, the following tasks were accomplished:
 
 - Clean, reduce and transform dataset using standard procedures such as data imputing, normalizing, standardizing, dimensionality reduction using Principle Component Analysis
 
-- Visualise, extract and analyze the data in depth through statiscal metrics, regular expressions and ggplot2 
+- Visualise, extract and analyze the data in depth through statistical metrics, regular expressions and ggplot2 
 
 - Perform various unsupervised learning and paramter optimization
 
